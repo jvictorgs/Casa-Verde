@@ -8,11 +8,11 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-<p align="center">O Casa Verde é um site criado com a metodologia mobile-first, ao longo do tempo irá ser adaptada a diversos tipos de telas, tornando-o responsivo. Irá ser implementado também, novas páginas e produtos. Esse projeto foi realizado para aperfeiçoar meus aprendizados em css.</p>
+<p align="center">O Casa Verde é um site criado com a metodologia mobile-first, ao longo do tempo irá ser adaptada a diversos tipos de telas, tornando-o responsivo. Irá ser implementado também, novas páginas e produtos. Esse projeto foi realizado para aperfeiçoar meus aprendizados em css. Obs: O projeto ainda não possui responsividade para telas maiores, recomendo utilziar o "Inspecionar Elemento" na hora de visualiza-lo em seu Desktop.".</p>
 
 <h2 align="center">Links:</h2>
 
-<p align="center">Projeto no Vercel: </p>
+<p align="center">Projeto no Vercel: https://casa-verde-three.vercel.app</p>
 
 ## 🛠️ Abrir e rodar o projeto
 
